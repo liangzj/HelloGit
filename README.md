@@ -7,3 +7,5 @@
 ## git push and goback.....
 
 ## git push by SSH
+
+## test change upload method(https - ssh ) 
